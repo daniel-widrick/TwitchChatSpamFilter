@@ -12,7 +12,12 @@ Open a twitch stream in your browser. Open the developer console (usually F12). 
 
 See also the list of [contributors](https://github.com/daniel-widrick/TwitchChatSpamFilter/contributors) who participated in this project.
 
+## Examples
+
+#<img alt="Clean Chat vs Emote Spam filled chat" src="https://imgur.com/f17ojwm.png">
+
 ## License
 
 This project is licensed under the AGPL-3.0 - see the [LICENSE](LICENSE) file for details
+
 
