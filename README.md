@@ -14,5 +14,5 @@ See also the list of [contributors](https://github.com/daniel-widrick/TwitchChat
 
 ## License
 
-This project is licensed under the AGPL-3.0 - see the [LICENSE.md](LICENSE) file for details
+This project is licensed under the AGPL-3.0 - see the [LICENSE](LICENSE) file for details
 
