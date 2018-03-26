@@ -8,7 +8,7 @@ Open a twitch stream in your browser. Open the developer console (usually F12). 
 
 ## Authors
 
-* **Daniel Widrick** - *Initial work* - [PurpleBooth](https://github.com/daniel-widrick)
+* **Daniel Widrick** - *Initial work* - [Daniel-Widrick](https://github.com/daniel-widrick)
 
 See also the list of [contributors](https://github.com/daniel-widrick/TwitchChatSpamFilter/contributors) who participated in this project.
 
