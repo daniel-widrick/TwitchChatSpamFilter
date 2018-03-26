@@ -4,7 +4,7 @@ Some simple javascript to filter spammy and contentless chat messages from popul
 
 ## Getting Started
 
-Open a twitch stream in your browser. Open the developer console (usually F12). On the console tab, paste the contents of <fileName> in and press enter.
+Open a twitch stream in your browser. Open the developer console (usually F12). On the console tab, paste the contents of filter.js in and press enter.
 
 ## Authors
 
